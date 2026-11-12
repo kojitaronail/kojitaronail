@@ -1,10 +1,14 @@
- const KN = {
+const LINE_URL = "https://lin.ee/YTNJltB";
+
+const KN = {
   minneShop: "https://minne.com/@kojitaro-o",
+  line: LINE_URL,
 
   sns: [
     { name: "Instagram", url: "https://www.instagram.com/kojitaro_nail" },
     { name: "TikTok",    url: "https://www.tiktok.com/@kojitaro.nail" },
-    { name: "YouTube",   url: "https://www.youtube.com/@kojitaro_nail" }
+    { name: "YouTube",   url: "https://www.youtube.com/@kojitaro_nail" },
+    { name: "LINE",      url: LINE_URL }
   ],
 
   nav: [
