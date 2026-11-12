@@ -1,4 +1,4 @@
-const KN = {
+ const KN = {
   minneShop: "https://minne.com/@kojitaro-o",
 
   sns: [
@@ -15,11 +15,11 @@ const KN = {
   ],
 
   products: [
-    { id: "p001", name: "商品名（仮）A", price: null, image: null, minne: "", featured: true,  isNew: true  },
-    { id: "p002", name: "商品名（仮）B", price: null, image: null, minne: "", featured: true,  isNew: true  },
-    { id: "p003", name: "商品名（仮）C", price: null, image: null, minne: "", featured: true,  isNew: false },
-    { id: "p004", name: "商品名（仮）D", price: null, image: null, minne: "", featured: false, isNew: true  },
-    { id: "p005", name: "商品名（仮）E", price: null, image: null, minne: "", featured: false, isNew: false },
-    { id: "p006", name: "商品名（仮）F", price: null, image: null, minne: "", featured: false, isNew: false }
+    { id: "p001", name: "ワンカラー｜バーガンディ",        price: 1600, image: "p001.jpg", minne: "https://minne.com/items/46208378", featured: false, isNew: true  },
+    { id: "p002", name: "ストレートフレンチ｜ブラック×シルバー", price: 2300, image: "p002.jpg", minne: "https://minne.com/items/46308427", featured: false, isNew: true  },
+    { id: "p003", name: "レオパード｜ベージュ×ホワイト",    price: 2300, image: "p003.jpg", minne: "https://minne.com/items/46181609", featured: false, isNew: true  },
+    { id: "p004", name: "レオパード｜ブラック×ホワイト",    price: 2300, image: "p004.jpg", minne: "https://minne.com/items/46181585", featured: true,  isNew: false },
+    { id: "p005", name: "サイズ計測用クリアチップ（ベリーショート）", price: 500, image: "p005.jpg", minne: "https://minne.com/items/46163507", featured: true,  isNew: false },
+    { id: "p006", name: "和柄｜麻の葉×市松模様｜ブラック×シルバー", price: 2500, image: "p006.jpg", minne: "https://minne.com/items/46109159", featured: true,  isNew: false }
   ]
 };
