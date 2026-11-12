@@ -11,7 +11,7 @@
     { label: "HOME",     href: "index.html",    ready: true },
     { label: "PRODUCTS", href: "products.html", ready: true },
     { label: "ABOUT",    href: "about.html",    ready: false },
-    { label: "HOW TO",   href: "howto.html",    ready: false }
+    { label: "HOW TO",   href: "howto.html",    ready: true }
   ],
 
   products: [
